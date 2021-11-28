@@ -2,9 +2,6 @@
     color: #091e42;
 }
 
-.background-carousel{
-    color: #e6fcff;
-}
 /* Carousel */
 
 .carousel-open:checked + .carousel-item {
